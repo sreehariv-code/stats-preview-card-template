@@ -102,6 +102,11 @@ main .card .content .stats p span {
   font-weight: var(--f-700);
 }
 
+@media screen and (min-width: 971px) {
+  body {
+    background-color: red;
+  }
+}
 .attribution {
   background: #fff;
-}/*# sourceMappingURL=style.css.map */
+} /*# sourceMappingURL=style.css.map */
